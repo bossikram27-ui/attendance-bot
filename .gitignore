@@ -1,1 +1,6 @@
 
+__pycache__/
+attendance.db
+attendance.xlsx
+.env
+*.pyc
